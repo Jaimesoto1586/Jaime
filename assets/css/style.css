@@ -1,0 +1,75 @@
+body {
+  font-family: 'Lobster', cursive;
+  font-family: 'News Cycle', sans-serif;
+}
+.yologo {
+  font-family: 'Lobster', cursive;
+  font-size: 3em;
+  color: #139B94;
+}
+
+header {
+  background-image: url(../img/yo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  margin-top: 4em;
+  padding-bottom: 25em;
+}
+
+.display-1 {
+  color: white;
+  text-shadow: slategray 6px 6px;
+  text-align:center;
+  position: relative;
+  bottom: -382px;
+  font-size: 155px;
+}
+
+.diseñador {
+  font-family: 'Lobster', cursive;
+  text-decoration: overline;
+  color: #ffffff;
+  text-shadow:slategray 2px 2px;
+  position: relative;
+  bottom: -382px;
+  }
+
+.footer {
+  background-color: #139B94;
+  padding: 1em;
+  text-align: center;
+}
+.yologo2 {
+  color: #ffffff;
+  font-family: 'Lobster', cursive;
+  font-size: 3em;
+  }
+.card-fondo {
+  background-color: #139B94;
+}
+.awesome {
+  text-align: center;
+  color: #139B94;
+}
+.yologo3 {
+  color: #139B94;
+  font-family: 'Lobster', cursive;
+  font-size: 3em;
+}
+
+.icon5 {
+  padding: 0.1em;
+  color: #ffffff;
+}
+.barra {
+  background-color: #139B94;
+}
+.footer-ic {
+  display: inline;
+}
+.hr {
+  width: 45%;
+  border-top: 2px solid #139B94;
+}
+
